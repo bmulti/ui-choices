@@ -1,0 +1,20 @@
+{
+  "splash": "images/splash-cpc-ui-choices-splash.webp",
+  "logo": "images/logo-logo.png",
+  "favicon": "images/favicon-icon.png",
+  "inventory-shot:0": "images/004-cpc-ui-choices-ui-choices-about-details.webp",
+  "inventory-shot:1": "images/005-cpc-ui-choices-ui-choices-about-overview.webp",
+  "inventory-shot:2": "images/006-cpc-ui-choices-ui-choices-config-gateway.webp",
+  "inventory-shot:3": "images/007-cpc-ui-choices-ui-choices-config-general.webp",
+  "inventory-shot:4": "images/008-cpc-ui-choices-ui-choices-config-maintenance.webp",
+  "inventory-shot:5": "images/009-cpc-ui-choices-ui-choices-config-performance.webp",
+  "inventory-shot:6": "images/010-cpc-ui-choices-ui-choices-config-storage.webp",
+  "inventory-shot:7": "images/011-cpc-ui-choices-ui-choices-contact-sheet-blue.webp",
+  "inventory-shot:8": "images/012-cpc-ui-choices-ui-choices-contact-sheet-dark.webp",
+  "inventory-shot:9": "images/013-cpc-ui-choices-ui-choices-contact-sheet-gold.webp",
+  "inventory-shot:10": "images/014-cpc-ui-choices-ui-choices-contact-sheet-light.webp",
+  "inventory-shot:11": "images/015-cpc-ui-choices-ui-choices-contact-sheet-pastel.webp",
+  "inventory-shot:12": "images/016-cpc-ui-choices-ui-choices-contact-sheet.webp",
+  "inventory-shot:13": "images/017-cpc-ui-choices-ui-choices-gateway.webp",
+  "inventory-shot:14": "images/018-cpc-ui-choices-ui-choices-ui-choices.webp"
+}

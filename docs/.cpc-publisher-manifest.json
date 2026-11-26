@@ -1,0 +1,31 @@
+{
+  "files": [
+    "docs/content-assets.json",
+    "docs/cpc_ui_choices-brochure.htm",
+    "docs/en.html",
+    "docs/files/cpc_ui_choices-brochure.htm",
+    "docs/files/depth_lifter_learning_page.html",
+    "docs/files/learn.htm",
+    "docs/images/004-cpc-ui-choices-ui-choices-about-details.webp",
+    "docs/images/005-cpc-ui-choices-ui-choices-about-overview.webp",
+    "docs/images/006-cpc-ui-choices-ui-choices-config-gateway.webp",
+    "docs/images/007-cpc-ui-choices-ui-choices-config-general.webp",
+    "docs/images/008-cpc-ui-choices-ui-choices-config-maintenance.webp",
+    "docs/images/009-cpc-ui-choices-ui-choices-config-performance.webp",
+    "docs/images/010-cpc-ui-choices-ui-choices-config-storage.webp",
+    "docs/images/011-cpc-ui-choices-ui-choices-contact-sheet-blue.webp",
+    "docs/images/012-cpc-ui-choices-ui-choices-contact-sheet-dark.webp",
+    "docs/images/013-cpc-ui-choices-ui-choices-contact-sheet-gold.webp",
+    "docs/images/014-cpc-ui-choices-ui-choices-contact-sheet-light.webp",
+    "docs/images/015-cpc-ui-choices-ui-choices-contact-sheet-pastel.webp",
+    "docs/images/016-cpc-ui-choices-ui-choices-contact-sheet.webp",
+    "docs/images/017-cpc-ui-choices-ui-choices-gateway.webp",
+    "docs/images/018-cpc-ui-choices-ui-choices-ui-choices.webp",
+    "docs/images/favicon-icon.png",
+    "docs/images/logo-logo.png",
+    "docs/images/splash-cpc-ui-choices-splash.webp",
+    "docs/index.html",
+    "docs/styles.css"
+  ],
+  "managed_by": "CPC GitHub Code Publisher"
+}
